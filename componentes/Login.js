@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Text, TextInput, TouchableOpacity, StyleSheet, ImageBackground } from 'react-native';
 
-const imgExterna = require('../assets/img/descarga.jpg.jfif');
+const imgExterna = require('../assets/img/descarga.jpg');
 
 const Login = () => {
   return (
